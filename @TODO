@@ -1,0 +1,8 @@
+# Choose one convention about var/const in require packages
+# Data should? be saved on a hosting servers
+# Messages should be encrypted
+# All database configurations should be in one separate place
+# Install mongoose here
+
+# index.html
+# -> Script should be in separate file

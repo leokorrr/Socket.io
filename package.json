@@ -1,0 +1,27 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leokorrr/Socket.io.git"
+  },
+  "author": "Leon Kochetcov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "mongodb": "^2.2.33",
+    "socket.io": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/leokorrr/Socket.io/issues"
+  },
+  "homepage": "https://github.com/leokorrr/Socket.io#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
